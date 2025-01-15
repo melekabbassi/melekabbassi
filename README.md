@@ -21,7 +21,7 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" height="40" alt="nixos logo" />
+  <img src="https://skillicons.dev/icons?i=nix" height="40" alt="nixos logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo" />
   <img width="12" />
