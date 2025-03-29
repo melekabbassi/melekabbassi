@@ -6,11 +6,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">ℹ️ About Me</h3>
 
 ###
 
-<p align="left">I'm Melek<br><br>- 🔭 Fullstack Developer at Hi Interns<br>- 👨‍🎓 Aspiring Software Engineer<br>- ⚡ In my free time I write bugs.🐛</p>
+<p align="left">I'm Melek<br><br>- 🔭 Fullstack Engineer at Hi Interns<br>- 👨‍💻 Software Engineer<br>- ⚡ In my free time I write bugs.🐛</p>
 
 ###
 
