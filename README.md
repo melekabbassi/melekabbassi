@@ -3,7 +3,7 @@
 
 local eth1c = {
   role = "software engineer",
-  company = "hi interns",
+  companies = { "hi interns", "cuddy-financial", "bonat" },
   location = "tunis, tunisia",
   languages = { "typescript", "go", "lua", "java" },
   editor = "neovim",
